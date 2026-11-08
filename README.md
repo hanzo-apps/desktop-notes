@@ -1,13 +1,22 @@
 # Notes
 
+<!-- hanzo-badges -->
+<p align="left">
+  <a href="https://platform.hanzo.ai/new?repo=https%3A%2F%2Fgithub.com%2Fhanzo-apps%2Fdesktop-notes&template=desktop-notes"><img src="https://gallery.hanzo.ai/deploy.svg" alt="Deploy to Hanzo" height="32" /></a>
+  <a href="https://hanzo.ai/chat?template=desktop-notes"><img src="https://gallery.hanzo.ai/badges/edit-in-hanzo.svg" alt="Edit in Hanzo.ai" height="32" /></a>
+  <a href="https://gallery.hanzo.ai/templates/desktop-notes"><img src="https://gallery.hanzo.ai/badges/live-preview.svg" alt="Live Preview" height="32" /></a>
+  <a href="https://gallery.hanzo.ai/llms/desktop-notes/LLM.md"><img src="https://gallery.hanzo.ai/badges/llm-md.svg" alt="LLM.md Playbook" height="32" /></a>
+</p>
+<!-- /hanzo-badges -->
+
 Local-first markdown notes — one .md file per note in the OS app-data dir, live preview, optional Base sync.
 
 A **Hanzo desktop template**: one codebase, three installers (macOS, Windows,
 Linux) and a web build. Fork it, `npm i`, ship.
 
 - Live web preview: <https://desktop-notes.hanzo.app>
-- Installers: <https://github.com/hanzo-templates/desktop-notes/releases/latest>
-- Source: <https://github.com/hanzo-templates/desktop-notes>
+- Installers: <https://github.com/hanzo-apps/desktop-notes/releases/latest>
+- Source: <https://github.com/hanzo-apps/desktop-notes>
 
 ![desktop-notes](./public/preview.png)
 
